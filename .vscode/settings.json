@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/Users/acc/domo_v5/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
